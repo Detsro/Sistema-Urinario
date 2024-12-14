@@ -23,7 +23,22 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 Diseñar un gemelo digital de un sistema fisiológico que permita identificar las diferencias entre un paciente afectado por una enfermedad (caso) y un individuo saludable (control) para desarrollar un protocolo de tratamiento mediante un sistema de control en lazo cerrado.
 
 ## Descripción detallada del sistema
-...
+El sistema urinario se representa mediante un circuito eléctrico que modela dos escenarios: el caso 
+afectado y el control normal. En el caso, se incluyen los componentes L1, R1, R2, R3, C1 y C2, que 
+representan las características fisiológicas del sistema bajo condiciones alteradas, como la resistencia 
+inicial al flujo y la capacidad de almacenamiento. Por otro lado, el control normal está compuesto por 
+los elementos L2, R4, R5, R6, C3 y C4, que reflejan las condiciones fisiológicas normales, incluyendo 
+la inercia al flujo sanguíneo y las obstrucciones uretrales moderadas.
+En ambos escenarios, el sistema cuenta con una entrada representada por Ve(t), que es el volumen 
+de orina en función del tiempo. Esta variable describe cómo varía la cantidad de orina generada en el 
+tiempo y funciona como el estímulo que alimenta el sistema. Por su parte, la salida del sistema está 
+representada por Vs(t), que corresponde a la presión vesical durante el vaciamiento, indicando la 
+presión generada dentro de la vejiga al expulsar la orina.
+Una señal rampa nos permite simular el proceso natural de carga y descarga que ocurre en el sistema urinario 
+específicamente en la vejiga 
+Este tipo de señal es útil para estudiar como el sistema responde a un incremento constante y sostenido de un 
+estimo asi como el aumento gradual de presión o volumen. Observa como responde em términos de 
+almacenamiento y regulación de flujo y vaciamento asi como comportamientos fisiologiocos.
 
 ## Referencias principales
 [1] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
