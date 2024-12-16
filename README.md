@@ -8,7 +8,7 @@ https://matlab.mathworks.com/open/github/v1?repo=Detsro/Sistema-Urinarioo
 ## Estudiantes
 Alejandra Lizeth Meza Armenta 19212415
 Marco Perez Chavez 19212423
-Mauricio Jésus Meraz Galeana 18210139(en primer lugar el trabajo más, en último el que va a reprobar)
+Mauricio Jésus Meraz Galeana 18210139
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo1@tectijuana.edu.mx; correo2@tectijuana.edu.mx correo3@tectijuana.edu.mx
 
 ## Asignaturas o departmento donde se puede usar la Actividad
