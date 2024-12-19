@@ -1,6 +1,5 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Detsro/Sistema-Urinarioo)
 
-# Sistema-Urinario
 
 
 # Sistema de Continencia Urinario
@@ -41,9 +40,15 @@ estimo asi como el aumento gradual de presión o volumen. Observa como responde 
 almacenamiento y regulación de flujo y vaciamento asi como comportamientos fisiologiocos.
 
 ## Referencias principales
-[1] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
 
-[2] P. A. Valle, L. N. Coria, C. Plata & Y. Salazar, “CAR-T cell therapy for the treatment of ALL: eradication conditions and in silico experimentation,” Hemato, vol. 2, issue 3, pp. 441-462, Jul 2021. https://doi.org/10.3390/hemato2030028 
+[1] Stanford Children's Health. (n.d.). Anatomy of the urinary system [Online]. Available: [https://www.stanfordchildrens.org/es/topic/default?id=anatomy-of-the-urinary-system-85-P04568](https://www.stanfordchildrens.org/es/topic/default?id=anatomy-of-the-urinary-system-85-P04568)
 
-[3] MathWorks. (n.d.). Sistemas Dinámicos [Online]. Available: https://www.mathworks.com/discovery/dynamic-systems.html
+[2] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
+
+[3] P. A. Valle, L. N. Coria, C. Plata & Y. Salazar, “CAR-T cell therapy for the treatment of ALL: eradication conditions and in silico experimentation,” Hemato, vol. 2, issue 3, pp. 441-462, Jul 2021. https://doi.org/10.3390/hemato2030028 
+
+[4] MathWorks. (n.d.). Sistemas Dinámicos [Online]. Available: https://www.mathworks.com/discovery/dynamic-systems.html
+
+[5] Kenhub. (n.d.). Sistema urinario [Online]. Available: [https://www.kenhub.com/es/library/anatomia-es/sistema-urinario](https://www.kenhub.com/es/library/anatomia-es/sistema-urinario)
+
 
