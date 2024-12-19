@@ -41,7 +41,7 @@ Una señal rampa permite simular el proceso natural de carga y descarga que ocur
 
 [1] Stanford Children's Health. (n.d.). Anatomy of the urinary system [Online]. Available: [https://www.stanfordchildrens.org/es/topic/default?id=anatomy-of-the-urinary-system-85-P04568](https://www.stanfordchildrens.org/es/topic/default?id=anatomy-of-the-urinary-system-85-P04568).
 
-[2] Kenhub. (n.d.). Sistema urinario [Online]. Available: [https://www.kenhub.com/es/library/anatomia-es/sistema-urinario](https://www.kenhub.com/es/library/anatomia-es/sistema-urinario)
+[2] National Kidney and Urologic Diseases Information Clearinghouse. (2012). El aparato urinario y cómo funciona. U.S. Department of Health and Human Services, National Institutes of Health. NIH Publication No. 12-3195S. Disponible en: www.kidney.niddk.nih.gov/spanish/index_sp.aspx
 
 
 
