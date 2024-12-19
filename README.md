@@ -3,7 +3,7 @@
 
 
 
-# Sistema de Continencia Urinario
+# Sistema Urinario
 
 ## Estudiantes
 Alejandra Lizeth Meza Armenta 19212415  
