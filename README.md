@@ -9,7 +9,7 @@
 Alejandra Lizeth Meza Armenta 19212415  
 Marco Pérez Chávez 19212423  
 Mauricio Jesús Meraz Galeana 18210139  
-Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo1@tectijuana.edu.mx; correo2@tectijuana.edu.mx; correo3@tectijuana.edu.mx
+Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: alejandra.meza193@tectijuana.edu.mx; marco.perez193@tectijuana.edu.mx@tectijuana.edu.mx; 	mauricio.meraz18@tectijuana.edu.mx
 
 ## Asignaturas o departamento donde se puede usar la actividad
 Modelado de Sistemas Fisiológicos de Ingeniería Biomédica
